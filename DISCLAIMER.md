@@ -16,5 +16,12 @@ This repository is created **for educational purposes only**.
 
 ---
 
+✒️ **Closing Signature**  
+✍️ Created & Curated by  
+**Muhammad Naveed Ishaque (Eks2)**  
+Content Creator | AI Writer | Narrative Simplifier | Cybersecurity Storyteller  
+
+_With the inner voice of Eks2 — the whisper behind the work._  
+
 🕊️ **Siraat Cyber Academy**  
 *“The Straight Path — Empowering minds with clarity, illuminating paths with purpose.”*  
