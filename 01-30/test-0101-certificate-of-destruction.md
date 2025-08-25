@@ -1,9 +1,9 @@
 # ✨ Question 1 — The Fire of Accountability  
 
 The military base has partnered with a private company to destroy its confidential paper waste through burning.  
-But in the shadows, **ShadowNet** waits, ready to exploit any gap in accountability.  
+But in the shadows, ShadowNet *(the phantom adversary — symbol of risk born from neglect)* waits, ready to exploit any gap in accountability.  
 
-To prevent such risks, which formal proof should the government provide to confirm that the destruction truly happened?  
+To prevent such risks, which formal proof should the government provide to confirm that the destruction truly happened?
 
 ---
 
